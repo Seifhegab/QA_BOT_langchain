@@ -1,4 +1,4 @@
-## QA BOT USING WatsonX AI
+# QA BOT USING WatsonX AI
 
 📝 Overview
 
