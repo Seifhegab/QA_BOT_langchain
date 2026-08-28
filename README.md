@@ -8,7 +8,7 @@ A Gradio web interface is implemented to enable seamless user interaction.
 
 ## Features
 
-✅ Leverages IBM WatsonX AI for text embedding and retrieval.__
+✅ Leverages IBM WatsonX AI for text embedding and retrieval.--
 ✅ Uses LangChain for document loading, text chunking, and retrieval-based QA.\n
 ✅ Integrates ChromaDB for vector storage and similarity search.\n
 ✅ Supports PDF document uploads for knowledge extraction.\n
